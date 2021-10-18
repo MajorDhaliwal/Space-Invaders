@@ -5,4 +5,4 @@
 
 1. Python 3.5+ installed is a requirement for this game to run.
 2. Install the Pygame library with ```pip install pygame``` on the terminal or command prompt.
-3. Inside your directory of the repository, run ```python3 game.py```.
+3. Inside your directory of the repository, run ```python game.py```.
