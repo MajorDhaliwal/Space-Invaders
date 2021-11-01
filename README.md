@@ -1,7 +1,5 @@
 # Space-Invaders
-
-
-![game_screenshot](https://raw.githubusercontent.com/MajorDhaliwal/Space-Invaders/main/game_screenshot.png)
+ <img src="game_screenshot.png" alt="Girl in a jacket" width="400" height="400"> 
 
 1. Python 3.5+ installed is a requirement for this game to run.
 2. Install the Pygame library with ```pip install pygame``` on the terminal or command prompt.
