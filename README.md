@@ -1,4 +1,5 @@
 # Space-Invaders
+Based on this (tutorial)[https://www.youtube.com/watch?v=FfWpgLFMI7w]
  <img src="./game_gif.gif" alt="" width="500" height="400"> 
 
 1. Python 3.5+ installed is a requirement for this game to run.
